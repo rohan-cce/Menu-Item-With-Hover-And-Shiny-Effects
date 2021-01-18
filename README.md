@@ -1,5 +1,4 @@
 # Menu-Item-With-Hover-And-Shiny-Effects
-# Responsive Portfolio
 
 ###### **Here is the link of [Live Demo](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)**
 
